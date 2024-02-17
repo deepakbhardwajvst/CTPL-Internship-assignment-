@@ -19,7 +19,7 @@ const Card = ({ userData }) => {
                     </div>
                 </div>
             </div>
-            <div className="mt-4">
+            <div className="mt-3">
                 <div className="text-white">
                     <span className="font-bold">Age</span>: {userData.dob.age}
                 </div>
