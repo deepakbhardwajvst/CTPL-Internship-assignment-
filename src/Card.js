@@ -1,6 +1,3 @@
-// Card.js
-import React from 'react';
-
 const Card = ({ userData }) => {
     return (
         <div className="profile-card bg-gradient-to-r from-blue-600   to-purple-600 p-6 rounded-lg shadow-lg max-w-md mx-auto transform hover:scale-105 transition-transform duration-300">
